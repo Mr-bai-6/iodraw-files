@@ -28,6 +28,16 @@
         <mxCell id="Q8FLB4K8glo3HrGagQmk-6" value="AdminUser" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="360" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Q8FLB4K8glo3HrGagQmk-7" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="220" as="sourcePoint" />
+            <mxPoint x="640" y="170" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="640" y="220" />
+              <mxPoint x="590" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
