@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="BO8wKvogv3Ros3Bp9aBU-1" value="Book&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="BO8wKvogv3Ros3Bp9aBU-1" value="Book&lt;div&gt;书名，作者，价钱，类型，是否借出&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q8FLB4K8glo3HrGagQmk-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
