@@ -29,7 +29,7 @@
             <mxPoint x="580" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q8FLB4K8glo3HrGagQmk-3" value="User" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Q8FLB4K8glo3HrGagQmk-3" value="User父类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q8FLB4K8glo3HrGagQmk-5" value="NormalUser" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
