@@ -16,7 +16,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q8FLB4K8glo3HrGagQmk-2" value="BookList" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Q8FLB4K8glo3HrGagQmk-2" value="BookList&lt;br&gt;&lt;div&gt;数组，计数器&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q8FLB4K8glo3HrGagQmk-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q8FLB4K8glo3HrGagQmk-3" target="Q8FLB4K8glo3HrGagQmk-5">
